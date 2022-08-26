@@ -8,8 +8,6 @@ Freshman of SWUFE, majoring in CS 😈
 
 TRYING to become a better version of myself through DIY-CS. (_self-learning CS!_)
 
-Maybe a CS Master is great. Or trying to obtain a double degree in CS and Finance. (_that's hard but I'll try!_)
-
 Sad fact but true, my university is finance oriented( CS in SWUFE is poor😭 ), which has led me to re-schedule my study plan for CS courses BEYOND the limited barrier in my whole undergraduate years.
 
 If you are interested in my experience or have similar problems trying to learn CS on your self, please feel free to contact me! (_we may have a really nice chat!_)
