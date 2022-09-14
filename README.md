@@ -7,6 +7,10 @@
 
 - 💻大一/大二决心自学学完专业课(CS-DIY!)+be a ACMer，大三以后主攻Fintech & AI🤖  
 
+### 现在学些什么
+
+- working on CSAPP and doing datalab
+
 ### 我的爱好
 
 - 💡喜欢新奇的事物！努力朝一名优秀的content creator和contributor迈进🎈  
