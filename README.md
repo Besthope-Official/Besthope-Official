@@ -9,7 +9,8 @@
 
 ### 现在学些什么
 
-- working on CSAPP and doing datalab
+- working on CSAPP and now learning Chapter 3!
+- 日常学习算法
 
 ### 我的爱好
 
