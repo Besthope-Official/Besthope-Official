@@ -9,18 +9,20 @@
 
 ### 现在学些什么
 
-- working on CSAPP and now learning Chapter 3!
-- 日常学习算法
+- CSAPP 进度: 第五章 程序优化
+- Lab做到了attack lab, 剩下的部分决意明年再战
+- C Primer Plus 第12章
+- 开始期末复习啦
+- Acwing 日常学习算法
 
 ### 我的爱好
 
 - 💡喜欢新奇的事物！努力朝一名优秀的content creator和contributor迈进🎈  
 
-- 🦀 vscode 是我最喜欢的文本编辑器！作为Windows的忠实用户，强烈安利 wsl 2 作为linux的开发环境🦀
+- 🦀 vscode 是我最喜欢的文本编辑器！Windows的忠实用户, 用 wsl2 作为linux的开发环境🦀
 
 - 🎨喜欢画画（学习板绘中），🎵喜欢音游（Phigros & OSU mania），主玩STEAM的独立游戏（竞技游戏苦手）与 Genshin Impact！
   
-
 - 😈GALゲームが好きすぎで日本語を頑張ります。N1に目指す。😆  
 
 <br/>  
