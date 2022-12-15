@@ -1,23 +1,23 @@
-### <div align="center">Hello there, I'm Besthope!🌈</div>  
+<!--https://readme-typing-svg.demolab.com/demo/-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7442B&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7442B&center=true&vCenter=true&width=435&lines=Hello,+I'm+Besthope!)](https://git.io/typing-svg)
 
-### 关于我
+### About me
 
 - 🐒现就读于 [西南财经大学](https://e.swufe.edu.cn/) 计算机与人工智能学院 计算机类 专业（22级）  
   
-- 💻大一/大二决心自学学完专业课+be a ACMer，后主攻Fintech or AI🤖  
+- 💻大一/大二决心自学学完专业课 + be a ACMer，后主攻Fintech or AI🤖  
 
 - 🤖 目前感兴趣的研究方向：计算机体系 人工智能 智能金融
 
-### 现在学些什么
+### My study plan
 
 - CSAPP 进度: 第五章 程序优化 Lab: attack lab(**)
 - 在各种通识课程的期末复习苦海中挣扎(*struggle!*)
 - 寒假计划：ACWing 日常学习算法（基础算法课）
 - JAVA SSM 开发
 
-### 我的爱好
+### My hobbies...
 
 - 💡喜欢新奇的事物(*novelty!*)！如果你有有趣的项目或者idea，don't hesitate to contact me!🎈  
 
