@@ -1,29 +1,31 @@
 ### <div align="center">Hello there, I'm Besthope!🌈</div>  
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7442B&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile+page!)](https://git.io/typing-svg)
+
 ### 关于我
 
-- 🐒现就读于 西南财经大学 计算机与人工智能 专业（22级）  
+- 🐒现就读于 [西南财经大学](https://e.swufe.edu.cn/) 计算机与人工智能学院 计算机类 专业（22级）  
   
+- 💻大一/大二决心自学学完专业课+be a ACMer，后主攻Fintech or AI🤖  
 
-- 💻大一/大二决心自学学完专业课(CS-DIY!)+be a ACMer，大三以后主攻Fintech & AI🤖  
+- 🤖 目前感兴趣的研究方向：计算机体系 人工智能 智能金融
 
 ### 现在学些什么
 
-- CSAPP 进度: 第五章 程序优化
-- Lab做到了attack lab, 剩下的部分决意明年再战
-- C Primer Plus 第12章
-- 开始期末复习啦
-- Acwing 日常学习算法
+- CSAPP 进度: 第五章 程序优化 Lab: attack lab(**)
+- 在各种通识课程的期末复习苦海中挣扎(*struggle!*)
+- 寒假计划：ACWing 日常学习算法（基础算法课）
+- JAVA SSM 开发
 
 ### 我的爱好
 
-- 💡喜欢新奇的事物！努力朝一名优秀的content creator和contributor迈进🎈  
+- 💡喜欢新奇的事物(*novelty!*)！如果你有有趣的项目或者idea，don't hesitate to contact me!🎈  
 
-- 🦀 vscode 是我最喜欢的文本编辑器！Windows的忠实用户, 用 wsl2 作为linux的开发环境🦀
+- 🦀 vscode 是我最喜欢的文本编辑器！and remote-wsl for linux development🦀
 
-- 🎨喜欢画画（学习板绘中），🎵喜欢音游（Phigros & OSU mania），主玩STEAM的独立游戏（竞技游戏苦手）与 Genshin Impact！
+- 🎨喜欢画画（学习板绘中）🎵竞技游戏苦手, PC 玩家, 主玩 Steam 独立游戏 + 年度游戏, Genshin Impact AR 60
   
-- 😈GALゲームが好きすぎで日本語を頑張ります。N1に目指す。😆  
+- 😈Interested in Language Study (English CET4/Japanese). 日本語を頑張ります。N1に目指す。😆
 
 <br/>  
 
