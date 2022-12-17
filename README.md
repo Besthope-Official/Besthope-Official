@@ -15,6 +15,7 @@
 - CSAPP 进度: 第五章 程序优化 Lab: attack lab(**)
 - 在各种通识课程的期末复习苦海中挣扎(*struggle!*)
 - 寒假计划：ACWing 日常学习算法（基础算法课）
+- 前端学些 奇怪的东西
 - JAVA SSM 开发
 
 ### My hobbies...
@@ -23,7 +24,7 @@
 
 - 🦀 vscode 是我最喜欢的文本编辑器！and remote-wsl for linux development🦀
 
-- 🎨喜欢画画（学习板绘中）🎵竞技游戏苦手, PC 玩家, 主玩 Steam 独立游戏 + 年度游戏, Genshin Impact AR 60
+- 🎨喜欢画画（学习板绘中）🎵竞技游戏苦手, 轻度 PC 玩家, 主玩 Steam 独立游戏 + 年度游戏, Genshin Impact AR 60
   
 - 😈Interested in Language Study (English CET4/Japanese). 日本語を頑張ります。N1に目指す。😆
 
