@@ -12,21 +12,21 @@
 
 ### My study plan
 
-- CSAPP 进度: 第五章 程序优化 Lab: attack lab(**)
-- 在各种通识课程的期末复习苦海中挣扎(*struggle!*)
-- 寒假计划：ACWing 日常学习算法（基础算法课）
-- 前端学些 奇怪的东西
-- JAVA SSM 开发
+- DSA: 基础算法/数据结构完成
+- ICS: 大一上 进展到 CSAPP Chapter 6
+  - Lab: attack lab
+- 现在在数学的苦海中挣扎(高代, 离散, 多元微积分...)
 
 ### My hobbies...
 
-- 💡喜欢新奇的事物(*novelty!*)！如果你有有趣的项目或者idea，don't hesitate to contact me!🎈  
+- 💡喜欢新奇的事物(*novelty!*)！如果你有有趣的项目或者idea, come and share with me!🎈  
 
-- 🦀 vscode 是我最喜欢的文本编辑器！and remote-wsl for linux development🦀
+- 🦀 vscode 是我最喜欢的文本编辑器！and remote-wsl for Linux development🦀
 
-- 🎨喜欢画画（学习板绘中）🎵竞技游戏苦手, 轻度 PC 玩家, 主玩 Steam 独立游戏 + 年度游戏, Genshin Impact AR 60
+- 🎨画手（纸质速写 & Procreate & SAI on PC）🎵 STEAM/GALGAME 二游玩的少 Genshin Impact AR 60
+  - 考虑某一天开始运营自己的社交帐号......
   
-- 😈Interested in Language Study (English CET4/Japanese). 日本語を頑張ります。N1に目指す。😆
+- 😈Interested in Language Study. 日本語を頑張ります。N1に目指す。😆
 
 <br/>  
 
@@ -60,6 +60,8 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Besthope-Official" alt="访客统计" /></div>
 
 <br/>  
+
+欢迎来到我的[个人博客](https://besthope-official.github.io/)转转~
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Besthope-Official&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
