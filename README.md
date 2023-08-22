@@ -4,49 +4,49 @@
 
 ### About me
 
-- 🐒现就读于 [西南财经大学](https://e.swufe.edu.cn/) 计算机与人工智能学院 计算机类 专业（22级）  
-  
-- 💻大一/大二决心自学学完专业课 + be a ACMer，后主攻Fintech or AI🤖  
+<a href="#">
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=Besthope-Official&show_icons=true' width="400px" />
+</a>
 
-- 🤖 目前感兴趣的研究方向：计算机体系 人工智能 智能金融
+- 「Besthope」と申します.
+  - 用了好几年的 ID 是在翻译软件里胡乱搓出来的. 不过现在也很喜欢.
+- 🐒现就读于 [西南财经大学](https://e.swufe.edu.cn/) 计算机与人工智能学院 人工智能 专业 (22级智能金融光华实验班)
+  - 看起来我是学 Fintech 的, 其实啥也不会.
 
-### My study plan
+### 我喜欢的事情
 
-- DSA: 基础算法/数据结构完成
-- ICS: 大一上 进展到 CSAPP Chapter 6
-  - Lab: attack lab
-- 现在在数学的苦海中挣扎(高代, 离散, 多元微积分...)
-
-### My hobbies...
-
-- 💡喜欢新奇的事物(*novelty!*)！如果你有有趣的项目或者idea, come and share with me!🎈  
-
-- 🦀 vscode 是我最喜欢的文本编辑器！and remote-wsl for Linux development🦀
-
-- 🎨画手（纸质速写 & Procreate & SAI on PC）🎵 STEAM/GALGAME 二游玩的少 Genshin Impact AR 60
+- 💡 尝试新玩意儿 (*novelty!*)
+  - 想让自己脑子里的东西化之有形, 但可惜没那个码力.
+- 🦀 开发环境: vscode + wsl2 (*vscode 天下第一!*)
+  - 就算为了就业也不想学 Java, 拒绝 pycharm 等一众IDE.
+- 🎨 画点怪东西 (设备: IPad 9+Procreate/友基 M708+Adobe Photoshop 2023)
+- 郑重说明: 不是二刺螈.
+  - ...但是应该还是能和部分群体有共同话题的.
+- 🎵 啥都玩: 单机游戏, ガールゲ, Phigros, OSU Mania, Blue Archive, Bang Dream, Genshin Impact, Honkai Starrail
   - 考虑某一天开始运营自己的社交帐号......
-  
 - 😈Interested in Language Study. 日本語を頑張ります。N1に目指す。😆
 
-<br/>  
+### 我做过啥
 
+- 基于 Hexo + NexT 主题的 [个人博客](https://besthope-official.github.io/)
+- 基于 Gitbook 的奇点工作室 2023 年的[后端暑期训练营](https://singularity-backend.gitbook.io/backend-online-doc/)
+- 基于 Flask + mySQL 的 Swufe AGI & Fintech 课题组[门户网站](https://www.swufenlp.group/)的后端接口
+- 一些不起眼的算法竞赛经历
 
-## Now learning...  
-<table><tr><td valign="top" width="33%">
+## 啥也不是的技术栈
+
+### Backend
 
 <div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
 
 </td></tr></table>  
 
@@ -57,22 +57,13 @@
   <a href="https://space.bilibili.com/6565285/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/xie-bai-heng-28/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Besthope-Official" alt="访客统计" /></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Besthope-Official&&style=flat-square" align="center" />
+</div>
 
 <br/>  
 
-欢迎来到我的[个人博客](https://besthope-official.github.io/)转转~
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Besthope-Official&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<br />
+<br/>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
