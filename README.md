@@ -4,75 +4,82 @@
 
 ### About me
 
-- 🐒现就读于 [西南财经大学](https://e.swufe.edu.cn/) 计算机与人工智能学院 计算机类 专业（22级）  
-  
-- 💻大一/大二决心自学学完专业课 + be a ACMer，后主攻Fintech or AI🤖  
+<a href="#">
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=Besthope-Official&show_icons=true' width="400px" />
+</a>
 
-- 🤖 目前感兴趣的研究方向：计算机体系 人工智能 智能金融
+- 「Besthope」と申します.
+  - 用了好几年的 ID 是在翻译软件里胡乱搓出来的. 不过现在也很喜欢.
+- 🐒 现就读于 [西南财经大学](https://e.swufe.edu.cn/) 计算机与人工智能学院 人工智能 专业 (22 级智能金融光华实验班)
+  - 看起来我是学 Fintech 的, 其实啥也不会.
+- 是一位*不负责的*后端开发
 
-### My study plan
+### 我喜欢的事情
 
-- DSA: 基础算法/数据结构完成
-- ICS: 大一上 进展到 CSAPP Chapter 6
-  - Lab: attack lab
-- 现在在数学的苦海中挣扎(高代, 离散, 多元微积分...)
+- 💡 尝试新玩意儿 (_novelty!_)
+  - 想让自己脑子里的东西化之有形, 但可惜没那个码力.
+- 🦀 开发环境: vscode + wsl2 (_vscode 天下第一!_)
+  - ...也装了 IDEA for JAVA
+- 🎨 画点怪东西 (设备: IPad 9+Procreate/友基 M708+Adobe Photoshop)
+- 🎵 不挑食, 啥都玩: 米家游戏原牌区 UP, BA, 音游老人复健, steam 上啥感兴趣就玩啥
+- 😈Interested in Language Study. 日本語を頑張ります。N1 に目指す。😆
 
-### My hobbies...
+### 我做过啥
 
-- 💡喜欢新奇的事物(*novelty!*)！如果你有有趣的项目或者idea, come and share with me!🎈  
+- 基于 Hexo + NexT 主题的 [个人博客](https://besthope-official.github.io/)
+- 基于 Gitbook 的奇点工作室 2023 年的[后端暑期训练营](https://singularity-backend.gitbook.io/backend-online-doc/)
+- 基于 Flask + mySQL 的 Swufe AGI & Fintech 课题组[门户网站](https://www.swufenlp.group/)的后端接口
+- 一些不起眼的算法竞赛经历
+- TBD
 
-- 🦀 vscode 是我最喜欢的文本编辑器！and remote-wsl for Linux development🦀
+## 这学期的 Task
 
-- 🎨画手（纸质速写 & Procreate & SAI on PC）🎵 STEAM/GALGAME 二游玩的少 Genshin Impact AR 60
-  - 考虑某一天开始运营自己的社交帐号......
-  
-- 😈Interested in Language Study. 日本語を頑張ります。N1に目指す。😆
+大二下半学期
 
-<br/>  
+- 学了些 Java, 拿去打一些产品设计比赛. 打算出一个总结的 blog: 在生态方面, 确实 Java 用起来意外地舒适...
+  - 但代码太啰嗦不影响它在我心中依然很烂的地位
+- 开发 online judge 中.
+  - 这学期中应该能出一个 demo :)
+- 忙完就认真去学机器学习.
+  - 感觉自己和别人已经是天差地别了 😭
+- 尝试接触 typst 的生态. 打算开一个学习笔记系统的新坑
 
+## 啥也不是的技术栈
 
-## Now learning...  
-<table><tr><td valign="top" width="33%">
+### Backend
 
 <div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td><td valign="top" width="33%">
 
-<br/>  
+</td></tr></table>
+
+<br/>
 
 ## Social Account
+
 <div align="center">
   <a href="https://space.bilibili.com/6565285/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/xie-bai-heng-28/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Besthope-Official" alt="访客统计" /></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Besthope-Official&&style=flat-square" align="center" />
+</div>
 
-<br/>  
+<br/>
 
-欢迎来到我的[个人博客](https://besthope-official.github.io/)转转~
+<br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Besthope-Official&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
