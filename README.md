@@ -20,7 +20,7 @@
   - 想让自己脑子里的东西化之有形, 但可惜没那个码力.
 - 🦀 开发环境: vscode + wsl2 (_vscode 天下第一!_)
   - ...也装了 IDEA for JAVA
-- 🎨 画点怪东西 (设备: IPad 9+Procreate/友基 M708+Adobe Photoshop)
+- 🎨 画点[怪东西](https://besthope-official.github.io/gallery/) (设备: IPad 9+Procreate/友基 M708+Adobe Photoshop)
 - 🎵 不挑食, 啥都玩: 米家游戏原牌区 UP, BA, 音游老人复健, steam 上啥感兴趣就玩啥
 - 😈Interested in Language Study. 日本語を頑張ります。N1 に目指す。😆
 
@@ -29,20 +29,22 @@
 - 基于 Hexo + NexT 主题的 [个人博客](https://besthope-official.github.io/)
 - 基于 Gitbook 的奇点工作室 2023 年的[后端暑期训练营](https://singularity-backend.gitbook.io/backend-online-doc/)
 - 基于 Flask + mySQL 的 Swufe AGI & Fintech 课题组[门户网站](https://www.swufenlp.group/)的后端接口
-- 一些不起眼的算法竞赛经历
+- 基于 Reveal.js 的一个幻灯片主题 [revealjs-academic-theme](https://github.com/Besthope-Official/revealjs-academic-theme)
+- 一些不起眼的算法竞赛经历 (2024 CCPC Sichuan Bronze)
 - TBD
 
 ## 这学期的 Task
 
-大二下半学期
+2024 autumn - 大三上学期
 
-- 学了些 Java, 拿去打一些产品设计比赛. 打算出一个总结的 blog: 在生态方面, 确实 Java 用起来意外地舒适...
-  - 但代码太啰嗦不影响它在我心中依然很烂的地位
-- 开发 online judge 中.
-  - 这学期中应该能出一个 demo :)
-- 忙完就认真去学机器学习.
-  - 感觉自己和别人已经是天差地别了 😭
-- 尝试接触 typst 的生态. 打算开一个学习笔记系统的新坑
+- 学习 TCP 编程
+  - 不想背那些教条的东西, 跟公开课, 想要用 C++ 做一个后端框架的工程.
+- 燃烧自己, 回馈组织
+  - 在自己的小破服务器上部署一个 gitlab :)
+  - 实现代码自动评测, 课堂计分板项目
+- 继续开发 online judge 平台...
+- 探索自己感兴趣的研究方向
+  - 尝试申组
 
 ## 啥也不是的技术栈
 
