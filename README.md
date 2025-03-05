@@ -11,41 +11,40 @@
 - 「Besthope」と申します.
   - 用了好几年的 ID 是在翻译软件里胡乱搓出来的. 不过现在也很喜欢.
 - 🐒 现就读于 [西南财经大学](https://e.swufe.edu.cn/) 计算机与人工智能学院 人工智能 专业 (22 级智能金融光华实验班)
-  - 看起来我是学 Fintech 的, 其实啥也不会.
-- 是一位*不负责的*后端开发
+- 是一位*不负责的*后端开发 (~~正在往全栈开发的路上~~)
 
 ### 我喜欢的事情
 
-- 💡 尝试新玩意儿 (_novelty!_)
-  - 想让自己脑子里的东西化之有形, 但可惜没那个码力.
-- 🦀 开发环境: vscode + wsl2 (_vscode 天下第一!_)
-  - ...也装了 IDEA for JAVA
 - 🎨 画点[怪东西](https://besthope-official.github.io/gallery/) (设备: IPad 9+Procreate/友基 M708+Adobe Photoshop)
-- 🎵 不挑食, 啥都玩: 米家游戏原牌区 UP, BA, 音游老人复健, steam 上啥感兴趣就玩啥
-- 😈Interested in Language Study. 日本語を頑張ります。N1 に目指す。😆
+- 🎵 不挑食, 啥都玩: 米家游戏原牌区/绝区零 UP, 卡拉彼丘, ~~BA,~~ 音游老人(邦, OSU...), steam 杂食玩家.
+- 😈 偶尔追番, 浓度很低. 日本語を頑張ります。N1 に目指す。😆
+- 🍔 吃好吃的. 欢迎和我成为饭搭子! 🍖
 
 ### 我做过啥
 
-- 基于 Hexo + NexT 主题的 [个人博客](https://besthope-official.github.io/)
+- 基于 Hexo + NexT 魔改主题的 [个人博客](https://besthope-official.github.io/)
 - 基于 Gitbook 的奇点工作室 2023 年的[后端暑期训练营](https://singularity-backend.gitbook.io/backend-online-doc/)
 - 基于 Flask + mySQL 的 Swufe AGI & Fintech 课题组[门户网站](https://www.swufenlp.group/)的后端接口
 - 基于 Reveal.js 的一个幻灯片主题 [revealjs-academic-theme](https://github.com/Besthope-Official/revealjs-academic-theme)
-- 一些不起眼的算法竞赛经历 (2024 CCPC Sichuan Bronze)
+- (2024 花旗杯)基于智能合约的农产品期货交易平台的后端开发 (~~Web3 死路一条~~)
+- 基于 Agent 的 LLM 微调数据生成 (*In review*)
+- 学校交叉研究院下的科研项目
+- 一些不起眼的机器学习算法比赛
+- 一些不起眼的算法竞赛经历 (2023 GLPT Team **Sliver**, 2024 CCPC Sichuan **Bronze**)
 - TBD
 
 ## 这学期的 Task
 
-2024 autumn - 大三上学期
+2025 Spring 大三下学期
 
-- 学习 TCP 编程
-  - 不想背那些教条的东西, 跟公开课, 想要用 C++ 做一个后端框架的工程.
+- **保研期努力**: 5 月开始, 是我的努力月
+- 打工人形态出击: 赚钱打工, 早日实现经济自由
+  - 也算是有了份实习工作!
 - 燃烧自己, 回馈组织
-  - 在自己的小破服务器上部署一个 gitlab :)
-  - 实现代码自动评测, 课堂计分板项目
-- 继续开发 online judge 平台...
-- 探索自己感兴趣的研究方向
-  - 尝试申组
-  - 积累技术实力, 希望下学期找一个好的实习岗位
+  - 继续培养开发新人, 好好打磨打磨自己
+- 根据现在做的项目撰写论文中……
+  - 什么时候我也中篇 CVPR, ICLR (~~幻想一下~~)
+- 川西/广东/东北旅行
 
 ## 啥也不是的技术栈
 
