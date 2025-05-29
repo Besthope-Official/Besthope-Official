@@ -11,27 +11,35 @@
 - 「Besthope」と申します.
   - 用了好几年的 ID 是在翻译软件里胡乱搓出来的. 不过现在也很喜欢.
 - 🐒 现就读于 [西南财经大学](https://e.swufe.edu.cn/) 计算机与人工智能学院 人工智能 专业 (22 级智能金融光华实验班)
-- 是一位*不负责的*后端开发 (~~正在往全栈开发的路上~~)
 
 ### 我喜欢的事情
 
 - 🎨 画点[怪东西](https://besthope-official.github.io/gallery/) (设备: IPad 9+Procreate/友基 M708+Adobe Photoshop)
-- 🎵 不挑食, 啥都玩: 米家游戏原牌区/绝区零 UP, 卡拉彼丘, ~~BA,~~ 音游老人(邦, OSU...), steam 杂食玩家.
+- 🎵 不挑食, 啥都玩: 米家游戏原牌区/绝区零 UP, TPS/FPS(卡拉彼丘/无畏契约), 音游老人(邦/OSU), steam 杂食玩家(3A/独立游戏).
 - 😈 偶尔追番, 浓度很低. 日本語を頑張ります。N1 に目指す。😆
-- 🍔 吃好吃的. 欢迎和我成为饭搭子! 🍖
+- 🍔 吃好吃的. 在川读书嘴给养刁了...欢迎和我成为饭搭子! 🍖
 
 ### 我做过啥
 
-- 基于 Hexo + NexT 魔改主题的 [个人博客](https://besthope-official.github.io/)
-- 基于 Gitbook 的奇点工作室 2023 年的[后端暑期训练营](https://singularity-backend.gitbook.io/backend-online-doc/)
-- 基于 Flask + mySQL 的 Swufe AGI & Fintech 课题组[门户网站](https://www.swufenlp.group/)的后端接口
-- 基于 Reveal.js 的一个幻灯片主题 [revealjs-academic-theme](https://github.com/Besthope-Official/revealjs-academic-theme)
-- (2024 花旗杯)基于智能合约的农产品期货交易平台的后端开发 (~~Web3 死路一条~~)
-- 基于 Agent 的 LLM 微调数据生成 (*In review*)
-- 学校交叉研究院下的科研项目
-- 一些不起眼的机器学习算法比赛
-- 一些不起眼的算法竞赛经历 (2023 GLPT Team **Sliver**, 2024 CCPC Sichuan **Bronze**)
+- (2023.3-2023.6) Swufe AGI & Fintech [课题组](https://www.swufenlp.group/) 后端开发实习
+- (2023.6-2025.6) **学生活动**：奇点工作室后端开发 & 讲师
+  - 学校 OJ 网站的后端业务开发 [SWUFE-OJ-Backend](https://github.com/SingularityLab-SWUFE/SWUFE-OJ-Backend)
+  - 基于 Hexo + NexT 魔改主题的 [个人博客](https://besthope-official.github.io/)
+  - 奇点工作室 2023 年的[后端暑期训练营](https://singularity-backend.gitbook.io/backend-online-doc/) 在线文档
+  - 基于 Reveal.js 的幻灯片主题 [revealjs-academic-theme](https://github.com/Besthope-Official/revealjs-academic-theme)
+    - 授课应用 [后端部开发文档导航](https://besthope-official.github.io/slides-page/)
+- (2024.12-now) 学校交叉研究院行为经济团队实习 & 科研助理
+  - 支持分布式的 RAG 知识库构建（传统文档解析、分块、向量化）模块 [predoc](https://github.com/Besthope-Official/predoc)
+- (*ongoing*) Agent-based 的量化交易机器人
+- 比赛项目
+  - (2024 CitiCup) 基于智能合约 (Web3) 的农产品期货交易平台的后端开发
+  - (2025 CitiCup) 基于 MetaGPT 框架多 Agent 协作的 LLM 微调数据合成项目
+  - (2025 计设) 手语翻译小程序后端开发
+  - 一些不起眼的机器学习算法比赛
+  - 一些不起眼的算法竞赛经历 (2023 GLPT Team **Sliver**, 2024 CCPC Sichuan **Bronze**, 2025 Lanqiao C++ A **Bronze**)
 - TBD
+
+希望自己能够做出真正有意义，有影响力的工作！
 
 ## 这学期的 Task
 
