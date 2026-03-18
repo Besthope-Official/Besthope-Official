@@ -23,7 +23,7 @@
 
 ### 我做过啥
 
-我给我自己的定位是 AI 软工人, 研究领域偏 LLM Application & Software Engineering, 关注云原生开发、AI infra、Agent 相关技术：更关注实现算法落地的工程化方案、AI 分布式系统的架构设计，以及现代化的开发/运维.
+我的兴趣点: LLM Applications, Agent software engineering, Human centralized AI, Cloud-Native Applications
 
 - (2023.3-2023.6) Swufe AGI & Fintech [课题组](https://www.swufenlp.group/) 后端开发实习
 - (2023.6-2025.6) **学生活动**：奇点工作室后端开发 & 讲师
@@ -36,10 +36,13 @@
   - 组织协调对外技术交流、项目合作、校企合作等事务
 - (2024.12-2025.6) 学校交叉研究院行为经济团队实习 & 科研助理
   - 支持分布式的知识库构建（OCR/PDF解析、分块、向量化）模块 [predoc](https://github.com/Besthope-Official/predoc)
-- (2025.6-now) 创业
-  - 负责主要的运维工作: 管理自部署的 k8s 集群, 承载包括: 公司 Gitlab CI/CD, 服务部署等等.
-  - 负责后端开发 & 维护: 如一个基于 MCP 协议/ReACT 范式的 Agent 对话系统, Serverless Tool Server 开发等.
-  - Co-author: *Diversity-enhanced Text Reranker for Multihop RAG* (ACL ARR 2026 *in-progress*)
+- (2026.2-now) 创业
+  - 负责: Agent-driven IM APP 后端开发 / Context Engineering Researcher
+  - 期待产品上线和大家见面那一天! (今年应该能)
+- Publications:
+  - *work 2026 ACL ARR under review*
+  - *work 2026 ICML under review*
+  - *work 2026 NeurIPS in progress*
 - 做过的产品 & 比赛项目
   - (2024 CitiCup) 基于智能合约 (Web3) 的农产品期货交易平台的后端开发
   - (2025 CitiCup) 基于 MetaGPT 框架多 Agent 协作的 LLM 微调数据合成项目
@@ -48,17 +51,6 @@
 - TBD
 
 希望自己能够做出真正有意义，有影响力的工作！
-
-## 这学期的 Task
-
-2025 Autumn 大四上
-
-- 不保研啦, 虽然已经拿到保研资格但最后放弃了, 决心**创业**了.
-  - 进国内高校还要被全日制的课程耽搁, 读书可以再度, 在工业界搞研究也是研究.
-  - 在 AI 应用的风口上, 大有可为. 机会难得, 好好把握!
-- 已经是打工人形态了, 每天处理完工作后已经没有精力了, 但希望能坚持学习.
-- 在研究领域继续深耕, 争取产出.
-- 川西/广东/东北旅行
 
 ## 啥也不是的技术栈
 
